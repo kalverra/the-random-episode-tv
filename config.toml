@@ -1,0 +1,21 @@
+theme = ['github.com/jpanther/lynx']
+title = "The Random Episode"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+name = "The Random Episode Podcast"
+headline = "Join long time friends and TV show enthusiasts, Varun and Christie, as they watch and recap a random episode, from a random season, from a television series they've NEVER seen before."
+image = "author.jpg"
+links = [
+    { spotify = "https://open.spotify.com/show/7q23GgsGqmgLBX1W3fNL5y" },
+    { youtube = "https://www.youtube.com/@TheRandomEpisode" },
+]
+
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
