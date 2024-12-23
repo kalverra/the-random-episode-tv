@@ -12,6 +12,8 @@ links = [
     { instagram = "https://www.instagram.com/therandomepisodepod/" },
     { spotify = "https://open.spotify.com/show/7q23GgsGqmgLBX1W3fNL5y" },
     { youtube = "https://www.youtube.com/@TheRandomEpisode" },
+    { apple = "https://podcasts.apple.com/us/podcast/the-random-episode/id1765733187" },
+    { amazon = "https://music.amazon.com/podcasts/aa9bf956-0043-4895-9ef8-0cc9aef1ac46/the-random-episode" },
 ]
 
 [markup.highlight]
