@@ -1,5 +1,6 @@
 theme = ['github.com/jpanther/lynx']
 title = "The Random Episode"
+baseURL = "https://therandomepisode.tv"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -22,3 +23,6 @@ noClasses = false
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+
+[params.meta]
+favicon = false
